@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css?family=Coming+Soon');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+
+    color: white;
+    font-family: 'Coming Soon', cursive;
+    background-color: #E0E0E0;
+}
+
+.contract-header{
+    display: flex;
+    font-size: 1em;
+    justify-content: space-between;
+    background-color: deepskyblue;
+    padding: 3% 10% 10% 10%;
+    width: 100%;
+    position: relative;
+
+
+}
+
+.profile-info{
+    position: absolute  ;
+    height: 40%;
+    width: 100%;
+    padding: 0% 15% ;
+    bottom: 40%;
+    left: 0%;
+    display: flex;
+    flex-direction: row;
+}
+.image-picture{
+    width: 30%;
+    height: 100%;
+    background-image:url("http://www.greekmyths-greekmythology.com/wp-content/uploads/2009/08/pegasus-01.jpg") ;
+    background-size: cover;
+    background-position: center;
+
+}
+.infomation{
+    width: 70%;
+    height: 100%;
+    background: white;
+
+}
+.introduce{
+    height: 80%;
+}
+.social{
+    height: 20%;
+    background-color: deepskyblue;
+}
+.welcome-message{
+    background-color: #00aff0;
+    width: 150px;
+    text-align: center;
+    padding: 5px;
+  ;
+}
+.positon-info{
+    color: #000000 ;
+}
+.info-header{
+    height: 60%;
+    width: 100%;
+    border-bottom: 1px deepskyblue solid;
+    border-bottom-width: thin;
+    padding: 20px 20px;
+
+}
+.positon-info h1{
+    font-size: 150%;
+}
+.footer{
+    color: #212121;
+
+}
+/*****************start icon*********/
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-google {
+    background: #dd4b39;
+    color: white;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+
+.fa-youtube {
+    background: #bb0000;
+    color: white;
+}
+
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
+
+.fa-pinterest {
+    background: #cb2027;
+    color: white;
+}
+
+.fa-snapchat-ghost {
+    background: #fffc00;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.fa-skype {
+    background: #00aff0;
+    color: white;
+}
+
+.fa-android {
+    background: #a4c639;
+    color: white;
+}
+
+.fa-dribbble {
+    background: #ea4c89;
+    color: white;
+}
+
+.fa-vimeo {
+    background: #45bbff;
+    color: white;
+}
+
+.fa-tumblr {
+    background: #2c4762;
+    color: white;
+}
+
+.fa-vine {
+    background: #00b489;
+    color: white;
+}
+
+.fa-foursquare {
+    background: #45bbff;
+    color: white;
+}
+
+.fa-stumbleupon {
+    background: #eb4924;
+    color: white;
+}
+
+.fa-flickr {
+    background: #f40083;
+    color: white;
+}
+
+.fa-yahoo {
+    background: #430297;
+    color: white;
+}
+
+.fa-soundcloud {
+    background: #ff5500;
+    color: white;
+}
+
+.fa-reddit {
+    background: #ff5700;
+    color: white;
+}
+
+.fa-rss {
+    background: #ff6600;
+    color: white;
+}
+/****************close icon*************/

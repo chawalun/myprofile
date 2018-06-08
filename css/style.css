@@ -1,0 +1,79 @@
+h1{
+
+	color: #a793red55;
+}
+.h1-grape{
+	color: #6f2da8;
+}
+.h1-magenta{
+	color:#FF00FF;
+}
+a, u {
+    text-decoration: none;
+}
+.center{
+	text-align: center;
+
+
+}
+.container-box{
+	width: 300px;
+	height: 200px;
+	background-color: #9acd32;
+	margin-left: 200px ;
+	border: 4px  tomato solid;
+	border-radius: 11%;
+	text-align: center;
+	color: green:;
+}
+.contract-box{
+	background-color: springgreen;
+	display:flex;
+	flex-flow: column;
+	align-content:center;
+	width: auto;
+	height: auto;
+}
+ul {
+	list-style: none;
+	display:flex ;
+	flex-direction:column ;
+}
+.flex-row{
+	display: flex;
+	flex-direction:row-reverse;
+	justify-content: space-evenly;
+	padding: 0% 30%;
+	flex-wrap: wrap-reverse;
+
+}
+.red{
+	width:20%;
+	padding:4%;
+	background-color: red;
+	background-image: url('https://vignette.wikia.nocookie.net/azure-mines/images/c/ca/Rubygem.jpg/revision/latest/scale-to-width-down/350?cb=20170213061700');
+	background-size:cover ;
+
+}
+.green{
+	width: 20%;
+	padding: 4%;
+	background-color: springgreen;
+	background-image: url(' http://jdrc.us/wp-content/uploads/2015/11/emeraldcrystals1.jpg');
+	background-size: cover ;
+
+}
+.blue{
+	width: 20%;
+	padding: 4%;
+	background-color: aqua;
+	background-image: url('https://i.ytimg.com/vi/mjUCAMFVjaY/maxresdefault.jpg');
+	background-size: cover;
+}
+.layout-color{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	text-align: center;
+
+}

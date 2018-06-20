@@ -37,8 +37,8 @@
           <file leaf-file-name="contract.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/ASSET/contract.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="448">
-                  <caret line="240" column="24" selection-start-line="240" selection-start-column="24" selection-end-line="240" selection-end-column="24" />
+                <state relative-caret-position="433">
+                  <caret line="241" selection-start-line="241" selection-end-line="241" />
                 </state>
               </provider>
             </entry>
@@ -161,12 +161,12 @@
       <workItem from="1528447091499" duration="3599000" />
       <workItem from="1528801672250" duration="505000" />
       <workItem from="1528802705272" duration="1791000" />
-      <workItem from="1529398458434" duration="2456000" />
+      <workItem from="1529398458434" duration="2666000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22832000" />
+    <option name="totallyTimeSpent" value="23042000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -416,8 +416,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ASSET/contract.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="240" column="24" selection-start-line="240" selection-start-column="24" selection-end-line="240" selection-end-column="24" />
+        <state relative-caret-position="433">
+          <caret line="241" selection-start-line="241" selection-end-line="241" />
         </state>
       </provider>
     </entry>
